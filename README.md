@@ -1,4 +1,6 @@
 # seminar-1
-## второй заголовок 
-* раз
-* два 
+## Mezentseva Yulia
+* 18 y.o
+//https://vk.com/im "Мой контакт"
+
+
